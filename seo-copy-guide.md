@@ -1,7 +1,9 @@
 #SEO Copy Guide
 
 ##TAGS
+```
 ?ip=NAME OF SHOP&tile=seocopy_NAME OF LINK
+```
 
 ###I.E:
 ```
