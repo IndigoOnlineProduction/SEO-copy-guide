@@ -59,7 +59,7 @@ SEO LINK: https://www.chapters.indigo.ca/en-ca/holiday/blogger-shop/sasha?ip=blo
 </div>
 ```
 
-### If the SEO copy is multiple paragraphs include these styles (below the CSS above):
+### If the SEO copy is multiple paragraphs include these styles (below the CSS shown above):
 ```
 div.firstParagraph {
     	padding-bottom: 13px;
